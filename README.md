@@ -22,6 +22,7 @@
 
 [perfume-top-server](https://github.com/perfume-top/perfume-top-server)
 
+
 [perfume-top-web](https://github.com/perfume-top/perfume-top-server)
 
 perfume-top-app
@@ -31,13 +32,15 @@ perfume-top-u4d
 
 ## SNS Offical
 
-微信公众号 perfume-top (perfume.top)
+微信公众号 perfume.top
+
+![perfume.top](resource/qrcode_for_mp.png)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/perfume_top_duo.svg?label=twitter&style=social)
 
 Facebook
 
-Twitter
-
-微博
+<img src="https://img.t.sinajs.cn/t6/style/images/global_nav/WB_logo-x2.png?id=1404211047727" height=15>[perfume_top](https://weibo.com/3167970243/)
 
 Bilibli
 
