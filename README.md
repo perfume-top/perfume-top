@@ -12,11 +12,11 @@
 
 ## More About this project
 
-[简体中文](./i28n/zh-Hans.md)
+[简体中文](i28n/zh-Hans.md)
 
-[English](./i28n/en_US.md)
+[English](i28n/en_US.md)
 
-[日本語](./i28n/ja_JP.md)
+[日本語](i28n/ja_JP.md)
 
 ## Project
 
