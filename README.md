@@ -36,11 +36,14 @@ perfume-top-u4d
 
 ![perfume.top](resource/qrcode_for_mp.png)
 
+<a href='https://weibo.com/3167970243/' >![Weibo Follow](resource/wb_logo_x2.png)</a>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/perfume_top_duo.svg?label=twitter&style=social)
 
 Facebook
 
-<img src="https://img.t.sinajs.cn/t6/style/images/global_nav/WB_logo-x2.png?id=1404211047727" height=15> [perfume_top](https://weibo.com/3167970243/)
+
+
 
 Bilibli
 
