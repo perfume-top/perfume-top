@@ -4,7 +4,7 @@
 
   We are committed to building the world project with advanced technology
 
-  The project is planed to be complete before 2019.8.18
+  The project is planed to be complete before 2020.02.25
 
   All code for perfume.top is open source and based on [MIT licensed](LICENSE).
   
