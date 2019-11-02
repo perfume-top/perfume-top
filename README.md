@@ -49,4 +49,4 @@ Bilibli
 
 ## Contact
 
-You can reach us by [prfm.top@gmail.com](prfm.top@gmail.com) if you need.
+You can reach us by [admin@perfume.jp](admin@perfume.jp) if you need.
