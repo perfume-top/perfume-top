@@ -12,9 +12,9 @@ perfume.top旨在打造一个平台，希望运用前沿的IT技术结合perfume
 
 ## 产品
 
-* 网站：www.perfume.jp          2020.02.01
-* 应用：Perfume in Pocket       2020.02.25
-* 游戏：Perfume World           20??.??.??
+* 2020.02.01 网站：www.perfume.jp
+* 2020.02.25 应用：Perfume in Pocket       
+* 2020.06.30 游戏：Perfume World           
 
 ## Roadmap
 
