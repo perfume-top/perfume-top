@@ -6,7 +6,7 @@
 
 ![](../../resource/zh-xmind.gif)
 
-[XMind文件](../../resource/perfume.mind)
+[XMind文件](https://github.com/perfume-top/perfume-top/blob/master/resource/perfume.xmind)
 
 ## 需求池
 
