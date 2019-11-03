@@ -101,15 +101,19 @@ TOUR或MV的列表页
 ![](../../resource/reference/004.gif)
 
 几何元素动效
+
 ![](../../resource/reference/015.gif)
 
 全屏切换
+
 ![](../../resource/reference/010.gif)
 
 tab切换
+
 ![](../../resource/reference/011.gif)
 
 汇聚动效
+
 ![](../../resource/reference/013.gif)
 
 消息动效
